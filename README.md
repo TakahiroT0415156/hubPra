@@ -8,7 +8,9 @@ git fetch origin main
 git merge origin/main
 ```
 
-*** ここからはプッシュの仕方
+*** 
+
+# ここからはプッシュの仕方
 
 
 # 1.コードをプッシュする場合
