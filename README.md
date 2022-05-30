@@ -10,6 +10,11 @@ git fetch origin main
 git merge origin/main
 ```
 
+## 全ての情報を取ってくる場合
+```rb:ターミナル
+git pull
+```
+
 *** 
 
 # ここからはプッシュの仕方
