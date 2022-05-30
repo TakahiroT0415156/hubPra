@@ -12,7 +12,7 @@ git merge origin/main
 
 ## 全ての情報を取ってくる場合
 ```rb:ターミナル
-git pull
+git pull origin main
 ```
 
 *** 
@@ -28,6 +28,11 @@ git add -p
 ## 1.ファイルをプッシュする場合
 ```rb:ターミナル
 git add ファイル名
+```
+
+## 1.全てのファイルをプッシュする場合
+```rb:ターミナル
+git add .
 ```
 
 ## 2.コミットする
